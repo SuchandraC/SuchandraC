@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Suchandra<br><br>I'm a Student, Developer, Data Science enthusiast and a Learner!!<br><br>- 🌱 I’m currently learning ML frameworks<br><br>- 👯 I’m looking to collaborate on ML projects<br><br>- 😄 Pronouns [she/her]<br><br>- ⚡ Fun fact **I love to make illustrations and bake**
+# About Me:
+Hello, I'm Suchandra<br><br>I'm a Student, Developer, Data Science enthusiast and a Learner!!<br><br>- I’m currently learning ML frameworks<br><br>- I’m looking to collaborate on ML projects<br><br>- Pronouns [she/her]<br><br>- Fun fact **I love to make illustrations and bake**
 
 
 # 💻 Tech Stack:
